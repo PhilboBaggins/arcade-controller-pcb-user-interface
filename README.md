@@ -1,8 +1,8 @@
-# Arcade controller button board
+# Modular controller button board
 
 <img align="right" src="./PlaceholderImage.png">
 
-Design files for the user interface board in the [arcade controller](https://github.com/PhilboBaggins/arcade-controller) project.
+Design files for the user interface board in the [modular controller](https://github.com/PhilboBaggins/modular-controller) project.
 
 ## Design files
 

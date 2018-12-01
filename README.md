@@ -8,7 +8,7 @@ Design files for the user interface board in the [modular controller](https://gi
 
 This board was designed using the [Upverter](https://upverter.com) web service.
 
-The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/0615a4734f97f8ff/Arcade-controller---User-interface-board/). Exports from Upverter are [available in a subdirectory](./Upverter%20exports).
+The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/0615a4734f97f8ff/Modular-controller---User-interface-board/). Exports from Upverter are [available in a subdirectory](./Upverter%20exports).
 
 ## Licence
 

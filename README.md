@@ -4,6 +4,10 @@
 
 Design files for the user interface board in the [modular controller](https://github.com/PhilboBaggins/modular-controller) project.
 
+This board is intended to be mounted under the top panel with the encoder shaft sticking through and the LCD flush with the panel. Spacers and screws are used to attach this board and the LCD to the panel. It'll look something like this:
+
+![Height diagram](./Height%20diagram.png)
+
 ## Design files
 
 This board was designed using the [Upverter](https://upverter.com) web service.

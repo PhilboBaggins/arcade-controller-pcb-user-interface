@@ -1,4 +1,4 @@
-# Modular controller button board
+# Modular controller user interface board
 
 <img align="right" src="./PlaceholderImage.png">
 
